@@ -14,3 +14,5 @@ GreenTech là dự án hướng tới việc ứng dụng công nghệ để b�
 -   Nâng cao ý thức cộng đồng.
     
 -   Phát triển bền vững.
+
+![ảnh stackedit]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2026-10-17 014300.png")
